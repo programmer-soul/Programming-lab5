@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Persons>
+<Person><id>1</id><name>Misha</name><Coordinates><x>0.0</x><y>0</y></Coordinates><creationDate>2024-02-24T12:09:18.636472+03:00[Europe/Moscow]</creationDate><height>1</height><weight>1</weight><passportID>4848484</passportID><eyeColor>BLACK</eyeColor><Location><x>0.0</x><y>0.0</y><z>0.0</z></Location></Person>
+</Persons>
